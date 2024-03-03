@@ -1,0 +1,14 @@
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\bin\Debug\net8.0\DZ.exe
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\bin\Debug\net8.0\DZ.dll
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\bin\Debug\net8.0\DZ.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.dll
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Рабочий стол\DZ\obj\Debug\net8.0\ref\DZ.dll
